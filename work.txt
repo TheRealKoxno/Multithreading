@@ -1,0 +1,2796 @@
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014211093888 Node 0 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014253549032 Node 0 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014256293066 Node 0 send packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014256347067 Node 1 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014258002711 Node 0 send packet 102 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014258058545 Node 1 receive packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014259367611 processing packet 100 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014260219080 Node 1 receive packet 102 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014260593430 processing packet 101 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014261675733 processing packet 102 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014262373720 Node 1 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014263525695 Node 1 send packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014263590949 Node 2 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014264238448 node 1 resend 102 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014265075210 processing packet 100 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014264536523 Node 2 receive packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014265579349 Node 1 send packet 102 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014266352032 processing packet 101 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014266790100 Node 2 receive packet 102 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014267432459 Node 2 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014267936460 processing packet 102 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014268526515 Node 3 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014268756504 Node 2 send packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014269748190 processing packet 100 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014270029756 Node 3 receive packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014270231696 Node 2 send packet 102 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014271182126 processing packet 101 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014271971313 Node 3 receive packet 102 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014272856203 Node 3 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014273409057 processing packet 102 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014273901303 Node 3 send packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014273971908 Node 4 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014274860881 Node 4 receive packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014275300174 Node 3 send packet 102 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014275523906 processing packet 100 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014276249013 Node 4 receive packet 102 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014275856335 processing packet 101 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014276991761 processing packet 102 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014278075910 Node 4 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014278930839 Node 5 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014279246914 Node 4 send packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014280063468 processing packet 100 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014280391860 Node 5 receive packet 101 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014281270963 processing packet 101 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014282082346 Node 5 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014283197640 Node 6 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014283291986 node 5 resend 101 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014284192171 processing packet 100 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014284295006 Node 5 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014285306271 Node 6 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014286202124 processing packet 101 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014286335337 Node 6 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014287432197 Node 7 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014288236709 Node 6 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014288326114 processing packet 100 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014289198782 Node 7 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014289918408 processing packet 101 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014290843387 Node 7 send packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014291578455 Node 8 receive packet 100 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014291739098 Node 7 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014292352229 processing packet 100 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014292790816 Node 8 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014293417656 processing packet 101 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014294258396 node 8 resend 100 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014295384243 Node 8 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014296136916 Node 8 send packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014296207469 Node 9 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014296887834 Node 9 receive packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014297125736 processing packet 101 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014297523971 processing packet 100 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014299409485 Node 9 send packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014300164061 Node 9 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014300267614 Node 0 receive packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014301105816 Node 0 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014301459329 processing packet 100 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014301804040 processing packet 101 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014303417354 Node 0 send packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014304302143 Node 1 receive packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014304291217 Node 0 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014304918128 processing packet 100 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014305269173 Node 1 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014305756967 processing packet 101 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014306828699 Node 1 send packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014307533274 Node 1 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014307506778 Node 2 receive packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014308131468 Node 2 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014308549430 processing packet 100 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014308773087 processing packet 101 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014310781347 Node 2 send packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014311337646 Node 2 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014311351807 Node 3 receive packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014311900796 Node 3 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014312121653 processing packet 100 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014312515164 processing packet 101 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014312975771 Node 1 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014313832327 Node 1 send packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014314145049 Node 3 send packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014314302085 Node 2 receive packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014314294266 Node 1 send packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014314651112 Node 3 send packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014314594872 Node 4 receive packet 100 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014315391632 Node 4 receive packet 101 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014315211861 Node 2 receive packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014315253129 Node 1 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014314938840 processing packet 103 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014316244975 processing packet 104 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014315939455 processing packet 101 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014315618108 processing packet 100 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014316574407 Node 2 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014317931374 processing packet 105 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014318030306 Node 2 send packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014318785792 Node 2 send packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014318793145 Node 3 receive packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014319346973 Node 3 receive packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014319609641 processing packet 103 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014319829799 Node 2 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014319988997 processing packet 104 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014320586430 Node 3 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014321026205 processing packet 105 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014321319660 Node 3 send packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014321722326 Node 4 receive packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014321848884 Node 3 send packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014322242854 processing packet 103 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014322505862 Node 4 receive packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014322761471 Node 3 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014323022623 processing packet 104 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014323180465 Node 4 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014323724582 processing packet 105 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014323997747 Node 4 send packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014324559012 Node 5 receive packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014324719164 Node 4 send packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014325082647 processing packet 103 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014325447529 Node 5 receive packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014325637384 Node 4 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014325969120 processing packet 104 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014326280400 Node 5 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014326761268 processing packet 105 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014326848144 Node 5 send packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014327527909 Node 6 receive packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014327573118 Node 5 send packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014327972365 processing packet 103 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014328213370 Node 6 receive packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014328538058 Node 5 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014328723229 processing packet 104 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014329042269 Node 6 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014329491130 processing packet 105 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014329742124 Node 6 send packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014330268624 Node 7 receive packet 103 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014330517881 Node 6 send packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014330855142 processing packet 103 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014331149110 Node 7 receive packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014331360378 Node 6 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014331792886 processing packet 104 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014332142165 Node 7 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014332608327 node 7 resend 103 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014332643899 processing packet 105 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014333153642 Node 7 send packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014333638832 Node 8 receive packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014333645897 Node 7 send packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014334168250 processing packet 103 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014334387381 Node 8 receive packet 104 to node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014334644261 Node 7 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014334869421 processing packet 104 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014335136388 Node 8 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014335616802 processing packet 105 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014335907765 Node 8 send packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014336342721 Node 9 receive packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014336629805 node 8 resend 104 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014336877282 processing packet 103 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014337108812 Node 8 send packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014337606503 Node 8 send packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014337616068 Node 9 receive packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014338147872 Node 9 receive packet 105 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014338371034 processing packet 104 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014338607430 Node 9 send packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014338651319 processing packet 105 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014339114045 Node 0 receive packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014339577289 processing packet 103 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014340124140 Node 9 send packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014340563320 node 9 resend 105 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014340662411 Node 0 receive packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014341072004 Node 9 send packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014341092924 Node 0 send packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014341525187 Node 0 receive packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014341314211 processing packet 104 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014341739416 Node 1 receive packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014342007409 processing packet 105 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014342338006 processing packet 103 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014343455845 Node 0 send packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014344001202 Node 1 receive packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014344090714 Node 1 send packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014344019545 Node 0 send packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014344432968 processing packet 104 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014344839427 Node 1 receive packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014344687132 Node 2 receive packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014345257757 processing packet 105 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014345562332 processing packet 103 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014346326076 Node 1 send packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014346688214 Node 2 receive packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014347005538 processing packet 104 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014347141552 Node 1 send packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014347127460 Node 2 send packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014347662902 Node 2 receive packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014347854944 Node 3 receive packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014348117489 processing packet 105 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014348288112 processing packet 103 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014348440352 Node 2 send packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014348958620 Node 3 receive packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014349377335 processing packet 104 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014349688564 Node 2 send packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014350051486 Node 3 send packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014350169238 Node 3 receive packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014350481019 Node 4 receive packet 103 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014350622769 processing packet 105 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014350955923 processing packet 103 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014350960174 Node 3 send packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014351540363 Node 4 receive packet 104 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014351945151 processing packet 104 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014352273966 Node 3 send packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014352644210 Node 4 receive packet 105 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014353076352 processing packet 105 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014413309720 Node 2 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014413985670 Node 2 send packet 106 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014414405854 Node 2 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014414416255 Node 3 receive packet 106 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014414754460 Node 3 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014414743808 Node 2 send packet 108 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014415181440 processing packet 107 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014414983426 processing packet 106 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014415412529 Node 3 receive packet 108 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014415931835 processing packet 108 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014416879402 Node 3 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014417183231 Node 3 send packet 106 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014417206824 Node 4 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014417476001 Node 4 receive packet 106 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014417466235 Node 3 send packet 108 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014417836955 processing packet 106 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014417970071 Node 4 receive packet 108 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014417627359 processing packet 107 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014418339534 processing packet 108 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014419648102 Node 4 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014419989853 Node 4 send packet 108 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014419999787 Node 5 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014420338335 Node 5 receive packet 108 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014420524489 processing packet 107 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014420717378 processing packet 108 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014422161696 node 5 resend 108 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014422211210 Node 5 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014422690865 Node 5 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014422697164 Node 6 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014422961413 Node 6 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014423196465 processing packet 107 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014423368841 processing packet 108 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014424913723 Node 6 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014425323963 Node 6 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014425330056 Node 7 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014425695717 Node 7 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014425989948 processing packet 107 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014426195633 processing packet 108 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014427642858 Node 7 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014428061514 Node 7 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014428069584 Node 8 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014428483551 Node 8 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014428627065 processing packet 108 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014428874528 processing packet 107 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014430286617 Node 8 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014430602322 Node 8 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014430609397 Node 9 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014430927961 Node 9 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014431128465 processing packet 108 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014431246182 processing packet 107 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014432516250 Node 9 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014432979758 Node 9 send packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014432992420 Node 0 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014433312216 Node 0 receive packet 107 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014433686234 processing packet 107 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014437591874 processing packet 108 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014439000558 node 0 resend 107 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014439205513 Node 0 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014439617532 Node 0 send packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014439627549 Node 1 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014439939650 Node 1 receive packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014440104481 processing packet 108 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014440313769 processing packet 107 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014441594499 Node 1 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014442023835 Node 2 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014442025895 Node 1 send packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014442394522 processing packet 108 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014442567107 Node 2 receive packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014442897978 processing packet 107 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014443837296 Node 2 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014444254955 Node 2 send packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014444329266 Node 3 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014444647853 Node 3 receive packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014444782284 processing packet 108 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014444982880 processing packet 107 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014446201870 Node 3 send packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014446684957 Node 4 receive packet 108 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014446671742 Node 3 send packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014447114688 processing packet 108 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014447436726 Node 4 receive packet 107 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014447788720 processing packet 107 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014514818048 Node 3 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014515986756 Node 3 send packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014516297973 Node 3 send packet 110 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014516307784 Node 4 receive packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014516711651 Node 4 receive packet 110 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014516605832 Node 3 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014517121548 processing packet 110 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014517170426 processing packet 109 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014517409583 Node 4 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014517939342 processing packet 111 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014518997166 Node 4 send packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014519409738 Node 4 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014519425573 Node 5 receive packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014519723309 Node 5 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014519915065 processing packet 109 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014520048631 processing packet 111 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014521533785 Node 5 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014521935974 Node 5 send packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014521946313 Node 6 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014522282077 Node 6 receive packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014522439071 processing packet 111 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014522674366 processing packet 109 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014524091209 Node 6 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014524516669 Node 6 send packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014524524167 Node 7 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014524819532 Node 7 receive packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014525002650 processing packet 111 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014525194728 processing packet 109 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014526800244 Node 7 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014527658988 Node 7 send packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014527667275 Node 8 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014528078822 Node 8 receive packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014528226446 processing packet 111 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014528368992 processing packet 109 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014529667681 Node 8 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014530011727 Node 8 send packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014530016975 Node 9 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014530311947 Node 9 receive packet 109 to node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014530445531 processing packet 111 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014530659321 processing packet 109 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014532184275 Node 9 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014532280822 node 9 resend 109 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014532528866 Node 0 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014532749756 Node 9 send packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014532879017 processing packet 111 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014533358876 Node 0 receive packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014533668946 processing packet 109 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014534564313 Node 0 send packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014534923682 Node 1 receive packet 111 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014535222890 processing packet 111 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014535335323 Node 0 send packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014536582517 Node 1 receive packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014536859567 node 1 resend 111 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014536967330 processing packet 109 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014537272362 Node 1 send packet 111 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014537535834 Node 2 receive packet 111 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014537853779 processing packet 111 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014538474723 Node 1 send packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014538952710 Node 2 receive packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014539358574 processing packet 109 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014539438798 Node 2 send packet 111 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014540078722 Node 3 receive packet 111 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014540543815 processing packet 111 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014541041591 Node 2 send packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014541366926 Node 3 receive packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014541606199 processing packet 109 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014542290841 Node 3 send packet 111 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014542523877 Node 4 receive packet 111 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014542708717 processing packet 111 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014542850759 Node 3 send packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014543100527 Node 4 receive packet 109 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014543290347 processing packet 109 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014616222205 Node 4 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014616789600 Node 4 send packet 112 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014617134374 Node 4 send packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014617141398 Node 5 receive packet 112 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014617406435 Node 5 receive packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014617693002 processing packet 112 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014617400661 Node 4 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014617837434 processing packet 113 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014618112336 Node 5 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014618386269 processing packet 114 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014619046237 Node 5 send packet 112 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014619355324 Node 6 receive packet 112 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014619487124 Node 5 send packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014619669339 processing packet 112 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014619857704 Node 6 receive packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014619788785 Node 5 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014620151296 processing packet 113 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014620640409 Node 6 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014620895282 processing packet 114 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014621268001 Node 6 send packet 112 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014621568746 Node 7 receive packet 112 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014621846895 processing packet 112 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014621898100 Node 6 send packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014622266305 Node 7 receive packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014622269420 Node 6 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014622516338 processing packet 113 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014622937248 Node 7 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014623141231 node 7 resend 112 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014623279363 processing packet 114 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014623519263 Node 7 send packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014623822543 Node 8 receive packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014624059122 processing packet 112 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014624179098 Node 7 send packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014624430364 Node 8 receive packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014624651929 processing packet 113 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014624939819 Node 7 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014625208135 Node 8 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014625440383 processing packet 114 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014625549294 Node 8 send packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014625868938 Node 9 receive packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014625914435 Node 8 send packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014626108427 processing packet 112 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014626234560 Node 9 receive packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014626499387 processing packet 113 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014626750846 Node 8 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014626980644 Node 9 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014627232473 processing packet 114 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014627642163 Node 9 send packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014627973999 Node 0 receive packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014628013887 Node 9 send packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014628203441 processing packet 112 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014628394086 Node 0 receive packet 113 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014628463471 Node 9 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014628701719 processing packet 113 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014628868328 Node 0 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014629084423 processing packet 114 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014629829282 Node 0 send packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014630116916 node 0 resend 113 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014630119305 Node 1 receive packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014630329166 Node 0 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014630526507 processing packet 112 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014630668543 Node 0 send packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014630665703 Node 1 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014630906907 Node 1 receive packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014631017134 processing packet 114 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014631195293 processing packet 113 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014631855909 Node 1 send packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014632132234 Node 2 receive packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014632367287 processing packet 112 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014632506582 Node 1 send packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014632762054 Node 1 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014632767757 Node 2 receive packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014632999822 Node 2 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014633131104 processing packet 113 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014633268542 processing packet 114 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014633869751 Node 2 send packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014634169894 Node 3 receive packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014634371456 processing packet 112 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014634435910 Node 2 send packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014634766020 Node 2 send packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014634772750 Node 3 receive packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014635023884 Node 3 receive packet 114 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014635127235 processing packet 113 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014635259298 processing packet 114 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014635764735 Node 3 send packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014636015487 Node 4 receive packet 112 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014636259812 processing packet 112 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014636497532 Node 3 send packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014636580926 node 3 resend 114 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014636786618 Node 4 receive packet 113 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014636909196 Node 3 send packet 114 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014637037756 processing packet 113 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014637202032 Node 4 receive packet 114 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014637452734 processing packet 114 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014713189018 Node 5 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014713665522 Node 5 send packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014713867443 Node 5 send packet 116 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014713876746 Node 6 receive packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014714037723 Node 6 receive packet 116 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014714030691 Node 5 send packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014714263449 processing packet 116 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014714180851 processing packet 115 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014714442590 Node 6 receive packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014714765915 processing packet 117 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014715812555 node 6 resend 116 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014715838630 Node 6 send packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014716145262 Node 7 receive packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014716145116 Node 6 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014716349499 processing packet 115 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014716480042 Node 7 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014716470755 Node 6 send packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014716727005 processing packet 116 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014716871136 Node 7 receive packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014717107774 processing packet 117 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014717857128 Node 7 send packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014718054130 Node 8 receive packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014718090038 Node 7 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014718324870 processing packet 115 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014718432190 Node 8 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014718590933 Node 7 send packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014718658503 processing packet 116 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014718847325 Node 8 receive packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014719007063 processing packet 117 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014719848893 Node 8 send packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014720027018 Node 8 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014720035005 Node 9 receive packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014720192251 Node 9 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014720353964 processing packet 115 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014720453535 Node 8 send packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014720416548 processing packet 116 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014720701803 Node 9 receive packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014720879927 processing packet 117 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014721849535 Node 9 send packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014722110386 Node 9 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014722114182 Node 0 receive packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014722339971 Node 9 send packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014722431816 processing packet 115 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014722570757 Node 0 receive packet 117 to node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014722346839 Node 0 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014722841794 processing packet 117 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014722975239 processing packet 116 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014723755826 Node 0 send packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014724072200 Node 1 receive packet 115 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014724236852 processing packet 115 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014724336381 node 0 resend 117 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014724437398 Node 0 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014724683362 Node 0 send packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014724688503 Node 1 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014724937992 Node 1 receive packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014725037001 processing packet 116 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014725187215 processing packet 117 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014725691135 node 1 resend 115 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014725863309 Node 1 send packet 115 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014726071013 Node 2 receive packet 115 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014726291770 processing packet 115 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014726638531 Node 1 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014726901621 Node 1 send packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014726912551 Node 2 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014727212453 Node 2 receive packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014727295928 processing packet 116 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014727538247 processing packet 117 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014727794741 Node 2 send packet 115 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014728041729 Node 3 receive packet 115 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014728259716 processing packet 115 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014728982898 Node 2 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014729572163 Node 3 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014729596862 Node 2 send packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014730037374 processing packet 116 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014729599695 Node 3 send packet 115 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014730203503 Node 3 receive packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014730621893 Node 4 receive packet 115 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014730709718 processing packet 117 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014730885058 processing packet 115 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014731465086 Node 3 send packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014731649099 Node 4 receive packet 116 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014731789163 processing packet 116 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014732093489 Node 3 send packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014732267399 Node 4 receive packet 117 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014732505050 processing packet 117 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014813481262 Node 6 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014813916633 Node 6 send packet 118 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014814126729 Node 6 send packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014814130457 Node 7 receive packet 118 to node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014814271682 Node 7 receive packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014814258532 Node 6 send packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014814464628 processing packet 119 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014814383191 processing packet 118 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014814560404 Node 7 receive packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014814805877 processing packet 120 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014815930346 Node 7 send packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014815991499 node 7 resend 118 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014816096987 Node 7 send packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014816074513 Node 8 receive packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014816244657 Node 7 send packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014816355326 processing packet 119 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014816256439 Node 8 receive packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014816448262 Node 8 receive packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014816574717 processing packet 120 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014816688738 processing packet 118 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014817785867 Node 8 send packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014817999459 Node 9 receive packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014818028878 Node 8 send packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014818212734 processing packet 119 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014818341551 Node 9 receive packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014818333215 Node 8 send packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014818609074 processing packet 120 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014818710093 Node 9 receive packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014819023578 processing packet 118 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014819554658 Node 9 send packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014819752600 Node 0 receive packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014819849503 Node 9 send packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014820001551 processing packet 119 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014820137338 Node 0 receive packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014820328725 Node 9 send packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014820360601 processing packet 120 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014820505801 Node 0 receive packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014820680669 processing packet 118 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014821617868 Node 0 send packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014821869473 Node 0 send packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014821909856 Node 1 receive packet 119 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014822125756 Node 1 receive packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014822112031 Node 0 send packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014822413902 processing packet 120 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014822338199 processing packet 119 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014822530518 Node 1 receive packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014822924918 processing packet 118 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014823917777 node 1 resend 119 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014824017245 Node 1 send packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014824385607 Node 2 receive packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014824379633 Node 1 send packet 119 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014824658400 processing packet 120 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014824726394 Node 2 receive packet 119 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014824714488 Node 1 send packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014824958268 processing packet 119 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014825083317 Node 2 receive packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014825239650 processing packet 118 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014826128534 Node 2 send packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014826333150 Node 3 receive packet 120 to node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014826326420 Node 2 send packet 119 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014826527038 processing packet 120 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014826620963 Node 3 receive packet 119 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014826614613 Node 2 send packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014826781038 processing packet 119 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014826874128 Node 3 receive packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014827058680 processing packet 118 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014827950880 node 3 resend 120 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014827983324 Node 3 send packet 119 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014828227455 Node 3 send packet 120 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014828234037 Node 4 receive packet 119 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014828403976 Node 4 receive packet 120 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014828472436 processing packet 119 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014828426269 Node 3 send packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014828651757 processing packet 120 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014828833959 Node 4 receive packet 118 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014829035590 processing packet 118 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node run
+INFO: 290014913795691 Node 7 start send
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014914187066 Node 7 send packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014914391441 Node 7 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014914399159 Node 8 receive packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014914560790 Node 8 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014914555048 Node 7 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014914775431 processing packet 122 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014914709981 processing packet 121 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014914927146 Node 8 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014915194808 processing packet 123 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014916060246 Node 8 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014916327132 Node 9 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014916382179 Node 8 send packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014916691865 Node 8 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014916699973 Node 9 receive packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014917088402 Node 9 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014916549708 processing packet 122 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014917294294 processing packet 123 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014917090863 processing packet 121 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014918639717 Node 9 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014919256336 Node 0 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014919287265 Node 9 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014919485494 processing packet 122 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014919627951 Node 9 send packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014919634755 Node 0 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014919822861 Node 0 receive packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014919955228 processing packet 123 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014920026630 processing packet 121 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014920820136 Node 0 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014921028461 Node 1 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014921176790 processing packet 122 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014921311142 Node 0 send packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014921434740 Node 0 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014921443620 Node 1 receive packet 121 to node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014921573114 Node 1 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014921733159 processing packet 121 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014921828302 processing packet 123 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014922399372 Node 1 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014922623837 Node 2 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014922842540 processing packet 122 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014923191208 node 1 resend 121 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014923320472 Node 1 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014923499507 Node 1 send packet 121 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014923498469 Node 2 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014923722895 Node 2 receive packet 121 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014923785827 processing packet 123 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014923937920 processing packet 121 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014924190125 Node 2 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014924405207 Node 3 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014924576282 processing packet 122 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014925331782 Node 2 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014925536940 Node 2 send packet 121 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014925541879 Node 3 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014925860157 processing packet 123 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014925717303 Node 3 receive packet 121 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014926194647 Node 3 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014926384508 processing packet 121 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014926549977 Node 4 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014926754572 processing packet 122 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014927147125 Node 3 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014927336241 Node 4 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014927535382 processing packet 123 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014927917117 Node 3 send packet 121 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014928202332 Node 4 receive packet 121 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014928241769 Node 4 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014928495608 processing packet 121 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014928621825 Node 5 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014928851888 processing packet 122 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014928890098 Node 4 send packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014929221210 Node 5 receive packet 123 to node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014929430139 processing packet 123 node 5
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014930554097 Node 5 send packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014931065255 node 5 resend 123 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014931346853 Node 6 receive packet 122 to node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014931407340 Node 5 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014931603124 processing packet 122 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014932034874 Node 6 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014932652817 processing packet 123 node 6
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014933642255 node 6 resend 122 to cord
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014933997712 Node 6 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014934395139 Node 6 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014934407001 Node 7 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014934800098 Node 7 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014934950700 processing packet 122 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014935111627 processing packet 123 node 7
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014936611632 Node 7 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014936990904 Node 7 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014936995264 Node 8 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014937350509 Node 8 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014937582181 processing packet 122 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014937708253 processing packet 123 node 8
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014938905067 Node 8 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014939169131 Node 9 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014939266033 Node 8 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014939497404 processing packet 122 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014939638846 Node 9 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014939866929 processing packet 123 node 9
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014941032576 Node 9 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014941364455 Node 9 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014941373209 Node 0 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014941724363 processing packet 122 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014941717275 Node 0 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014942062545 processing packet 123 node 0
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014943065788 Node 0 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014943481265 Node 1 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014944284718 processing packet 122 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014943636086 Node 0 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014944849597 Node 1 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014945084583 processing packet 123 node 1
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014946125025 Node 1 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014946510667 Node 2 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014946820263 Node 1 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014947151191 processing packet 122 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014947381334 Node 2 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014947681221 processing packet 123 node 2
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014948692657 Node 2 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014949004452 Node 3 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014949254594 processing packet 122 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014949327963 Node 2 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014949717944 Node 3 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014949965295 processing packet 123 node 3
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014951019806 Node 3 send packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014951747644 Node 4 receive packet 122 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014952122130 processing packet 122 node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$send$1
+INFO: 290014952464696 Node 3 send packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node processing
+INFO: 290014952838090 Node 4 receive packet 123 to node 4
+
+янв. 08, 2022 9:26:45 PM mipt.org.Node lambda$processing$3
+INFO: 290014953201226 processing packet 123 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node run
+INFO: 290015012230545 Node 8 start send
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015012822782 Node 8 send packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015013113841 Node 8 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015013121197 Node 9 receive packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015013336608 Node 8 send packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015013466558 processing packet 124 node 9
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015013656291 Node 9 receive packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015013382991 Node 9 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015013847416 processing packet 126 node 9
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015014004447 processing packet 125 node 9
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015015092648 Node 9 send packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015015600545 Node 9 send packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015015628495 Node 0 receive packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015015911304 Node 9 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015015992538 Node 0 receive packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015016238004 Node 0 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015016268787 processing packet 126 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015016247808 processing packet 124 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015016429577 processing packet 125 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015018042869 Node 0 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015018420049 Node 1 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015018432348 Node 0 send packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015018669006 processing packet 125 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015018794787 Node 1 receive packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015018787177 Node 0 send packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015019065472 processing packet 124 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015019186272 Node 1 receive packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015019390917 processing packet 126 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015020011027 Node 1 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015020307759 Node 2 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015020546590 processing packet 125 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015020601965 Node 1 send packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015020908866 Node 1 send packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015021077799 Node 2 receive packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015021275332 Node 2 receive packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015021379016 processing packet 124 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015021459576 processing packet 126 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015022047654 Node 2 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015022870318 Node 3 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015023521639 processing packet 125 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015023904359 Node 2 send packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015024656526 Node 2 send packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015024932661 Node 3 receive packet 124 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015025160065 Node 3 receive packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015025199459 processing packet 124 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015025366066 processing packet 126 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015025304283 Node 3 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015025745088 Node 4 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015025973001 processing packet 125 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015026679701 Node 3 send packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015026753603 node 3 resend 124 to cord
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015027157538 Node 4 receive packet 126 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015027252043 Node 3 send packet 124 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015027380650 processing packet 126 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015027449023 Node 4 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015027595965 Node 4 receive packet 124 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015027865135 Node 5 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015028019079 processing packet 124 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015028169696 processing packet 125 node 5
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015029624140 Node 5 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015029975401 Node 6 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015030335189 processing packet 125 node 6
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015031907889 Node 6 send packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015032097916 Node 7 receive packet 125 to node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015032325264 processing packet 125 node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015033759229 node 7 resend 125 to cord
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015034063102 Node 7 send packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015034246112 Node 8 receive packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015034384744 processing packet 125 node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015035792055 Node 8 send packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015036044786 Node 9 receive packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015036262584 processing packet 125 node 9
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015037718712 Node 9 send packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015038099326 Node 0 receive packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015038434953 processing packet 125 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015039748609 Node 0 send packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015040017828 Node 1 receive packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015040203051 processing packet 125 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015041467630 Node 1 send packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015041709204 Node 2 receive packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015041905736 processing packet 125 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015043114952 Node 2 send packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015043395009 Node 3 receive packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015044188130 processing packet 125 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015045567544 Node 3 send packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015045841294 Node 4 receive packet 125 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015046061407 processing packet 125 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node run
+INFO: 290015113013348 Node 9 start send
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015115873832 Node 9 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015116176126 Node 9 send packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015116210940 Node 0 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015116481900 Node 0 receive packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015116629041 processing packet 127 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015116465220 Node 9 send packet 129 to node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015116705755 processing packet 128 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015117228549 Node 0 receive packet 129 to node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015117699108 processing packet 129 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015118089523 Node 0 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015118826868 Node 1 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015119170924 processing packet 127 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015120795751 Node 0 send packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015121078507 Node 0 send packet 129 to node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015121283591 Node 1 receive packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015121603351 Node 1 receive packet 129 to node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015121902260 processing packet 129 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015122241570 Node 1 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015122487843 processing packet 128 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015123248791 node 1 resend 129 to cord
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015123248722 Node 2 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015124387876 processing packet 127 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015124642307 Node 1 send packet 129 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015125635130 Node 2 receive packet 129 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015125886913 processing packet 129 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015126724730 Node 1 send packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015126961625 Node 2 receive packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015127157450 processing packet 128 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015127824425 Node 2 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015128351443 Node 2 send packet 129 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015129720788 Node 3 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015130001989 Node 3 receive packet 129 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015130199281 processing packet 127 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015130669044 processing packet 129 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015130677183 Node 2 send packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015131362497 Node 3 receive packet 128 to node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015131622292 processing packet 128 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015131575591 Node 3 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015132134639 Node 4 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015132361124 Node 3 send packet 129 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015132632557 processing packet 127 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015133013974 Node 4 receive packet 129 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015133267294 processing packet 129 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015133471887 node 3 resend 128 to cord
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015135609511 Node 3 send packet 128 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015135845671 Node 4 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015136972444 Node 4 receive packet 128 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015137070473 Node 5 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015137371874 processing packet 127 node 5
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015137381015 processing packet 128 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015138882516 Node 5 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015139262168 Node 6 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015139854686 processing packet 127 node 6
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015142149988 Node 6 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015142439620 Node 7 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015142654943 processing packet 127 node 7
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015144237534 Node 7 send packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015144530756 Node 8 receive packet 127 to node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015144770284 processing packet 127 node 8
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015146237040 node 8 resend 127 to cord
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015146559442 Node 8 send packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015146803226 Node 9 receive packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015147027604 processing packet 127 node 9
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015148508162 Node 9 send packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015148796710 Node 0 receive packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015149032242 processing packet 127 node 0
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015150491224 Node 0 send packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015150755516 Node 1 receive packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015150965230 processing packet 127 node 1
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015152423526 Node 1 send packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015152677065 Node 2 receive packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015152895527 processing packet 127 node 2
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015154350928 Node 2 send packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015154642703 Node 3 receive packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015154817775 processing packet 127 node 3
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$send$1
+INFO: 290015156252935 Node 3 send packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node processing
+INFO: 290015156488063 Node 4 receive packet 127 to node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node lambda$processing$3
+INFO: 290015156650334 processing packet 127 node 4
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158286775 Node 0 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158470556 Node 4 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158392330 Node 8 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158365122 Node 5 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158296571 Node 6 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158312518 Node 7 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158286816 Node 9 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158991690 Node 1 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158936470 Node 2 shutdown
+
+янв. 08, 2022 9:26:46 PM mipt.org.Node shutdown
+INFO: 290015158926238 Node 3 shutdown
+
