@@ -25,6 +25,6 @@ public class Main {
         System.out.println(stat);
         LongSummaryStatistics buff = packageList.stream().mapToLong(DataPackage::getDiffBuffer).summaryStatistics();
         System.out.println(buff);
-
+пше
     }
 }
